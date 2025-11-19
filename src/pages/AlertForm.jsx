@@ -22,7 +22,7 @@ const handleSubmit = async (e) => {
     e.preventDefault();
     if (id) await api.put(`/alerts/${id}`, form);
     else await api.post(`/alerts`, form);
-    window.location.href = "/dashboard/alerts";
+    window.location.href = "/alerts";
 };
 
 
