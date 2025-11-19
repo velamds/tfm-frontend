@@ -1,0 +1,22 @@
+[
+  { "id": 1, "title": "Basura acumulada en esquina", "lat": 6.2431, "lng": -75.5682 },
+  { "id": 2, "title": "Contenedor desbordado", "lat": 6.2514, "lng": -75.5650 },
+  { "id": 3, "title": "Restos de poda sin recoger", "lat": 6.2305, "lng": -75.5733 },
+  { "id": 4, "title": "Escombros ilegales", "lat": 6.2389, "lng": -75.5621 },
+  { "id": 5, "title": "Bolsa rota en vía pública", "lat": 6.2477, "lng": -75.5794 },
+  { "id": 6, "title": "Mal olor en contenedor", "lat": 6.2420, "lng": -75.5560 },
+  { "id": 7, "title": "Basura en zona de parque", "lat": 6.2362, "lng": -75.5718 },
+  { "id": 8, "title": "Punto crítico de residuos", "lat": 6.2488, "lng": -75.5602 },
+  { "id": 9, "title": "Animales en bolsas de basura", "lat": 6.2339, "lng": -75.5695 },
+  { "id": 10, "title": "Mueble abandonado", "lat": 6.2521, "lng": -75.5723 },
+  { "id": 11, "title": "Vertimiento de aceite", "lat": 6.2405, "lng": -75.5638 },
+  { "id": 12, "title": "Residuos reciclables mezclados", "lat": 6.2450, "lng": -75.5574 },
+  { "id": 13, "title": "Basura tirada fuera de horario", "lat": 6.2394, "lng": -75.5741 },
+  { "id": 14, "title": "Papelera rota", "lat": 6.2341, "lng": -75.5709 },
+  { "id": 15, "title": "Residuos de comida regados", "lat": 6.2499, "lng": -75.5657 },
+  { "id": 16, "title": "Contenedor sin tapa", "lat": 6.2318, "lng": -75.5672 },
+  { "id": 17, "title": "Vidrios rotos en la calle", "lat": 6.2437, "lng": -75.5758 },
+  { "id": 18, "title": "Tala ilegal", "lat": 6.2284, "lng": -75.5614 },
+  { "id": 19, "title": "Montón de hojas acumuladas", "lat": 6.2466, "lng": -75.5590 },
+  { "id": 20, "title": "Fuga de agua contaminada", "lat": 6.2357, "lng": -75.5735 }
+]
