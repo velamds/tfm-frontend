@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import api from "../api/axios";
-import alerts from "../data/alerts.json";
+import alertsLocal from "../data/alerts.json";
 
 
 export default function AlertList() {
@@ -14,7 +14,7 @@ const load = async () => {
       console.warn("La API falló, cargando JSON local", error);
 
       try {
-        const localData = alerts;
+        const localData = alertsLocal;
 
         setAlerts(localData);
       } catch (jsonError) {
