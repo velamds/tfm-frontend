@@ -18,7 +18,7 @@ const router = createBrowserRouter(
       <Route element={<MainLayout/>}>
         <Route path='/dashboard' element={<Dashboard/>} />
         <Route path="/alerts" element={<AlertList />} />
-        <Route path="/alert/create" element={<AlertForm />} />
+        <Route path="/alerts/new" element={<AlertForm />} />
         <Route path='/*' element={<NotFound/>}/>
       </Route>
       

@@ -29,7 +29,7 @@ useEffect(() => { load(); }, []);
 
     return (
         <div>
-            <a href="/dashboard/alerts/new" className="bg-emerald-600 text-white px-4 py-2 rounded">Nueva Alerta</a>
+            <a href="/alerts/new" className="bg-emerald-600 text-white px-4 py-2 rounded">Nueva Alerta</a>
             <ul className="mt-6 space-y-3">
                 { alerts.map((a) => (
                     <li key={a.id} className="p-4 bg-white rounded shadow border">
